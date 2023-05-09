@@ -17,3 +17,17 @@
 | [Python Data Types](https://www.geeksforgeeks.org/python-data-types/) | GeeksforGeeks |
 | [Basic Python Data Types](https://realpython.com/python-data-types/) | Real Python |
 <br>
+
+<h2>Session 2: User Input, Modules, Loops & Funtions</h2>
+
+| Resource | Source | 
+|--|--|
+| [Python Input, Output & String Formatting](https://realpython.com/python-input-output/#reading-input-from-the-keyboard) | Real Python |
+| [Input() Function](https://www.w3schools.com/python/ref_func_input.asp) | W3 Schools |
+| [Taking Input in Python](https://www.geeksforgeeks.org/taking-input-in-python/) | Geeks for Geeks |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+<br>
